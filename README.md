@@ -4,7 +4,7 @@ Follow the following steps to remove malicious code. <br />
 2. Put that code in box (textarea). <br />
 3. Hit Submit.
 
-To get more knowldge about power of RMCI, please visit #WP <a href="http://www.hashwp.com/how-to-remove-malicious-code-easily-under-one-click/">How to use RMCI ? </a>
+To get more knowldge about power of RMCI, please visit  <a href="http://www.hashwp.com/how-to-remove-malicious-code-easily-under-one-click/">How to use RMCI ? </a> #WP
 
 That's it.
 Daniyal.
