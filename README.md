@@ -4,7 +4,7 @@ Follow the following steps to remove malicious code. <br />
 2. Put that code in box (textarea). <br />
 3. Hit Submit.
 
-In most of the cases - it is reportetd that files are full of malicous code in WordPress. So ists actually desinged for it.
+In most of the cases - it is reportetd that files are full of malicous code in WordPress. So its actually desinged for it.
 
 To get more knowldge about power of RMCI, please visit  <a href="http://www.hashwp.com/how-to-remove-malicious-code-easily-under-one-click/">How to use RMCI ? </a> #WP
 
